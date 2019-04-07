@@ -1,0 +1,12 @@
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Solver\bin\Debug\netstandard2.0\CoreSudoku.Solver.deps.json
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Solver\bin\Debug\netstandard2.0\CoreSudoku.Solver.dll
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Solver\bin\Debug\netstandard2.0\CoreSudoku.Solver.pdb
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Solver\obj\Debug\netstandard2.0\CoreSudoku.Solver.csprojAssemblyReference.cache
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Solver\obj\Debug\netstandard2.0\CoreSudoku.Solver.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Solver\obj\Debug\netstandard2.0\CoreSudoku.Solver.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Solver\obj\Debug\netstandard2.0\CoreSudoku.Solver.AssemblyInfo.cs
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Solver\obj\Debug\netstandard2.0\CoreSudoku.Solver.dll
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Solver\obj\Debug\netstandard2.0\CoreSudoku.Solver.pdb
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Solver\bin\Debug\netstandard2.0\CoreSudoku.dll
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Solver\bin\Debug\netstandard2.0\CoreSudoku.pdb
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Solver\obj\Debug\netstandard2.0\CoreSudoku.Solver.csproj.CopyComplete
