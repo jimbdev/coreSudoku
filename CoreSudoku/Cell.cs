@@ -7,16 +7,20 @@ namespace CoreSudoku
 {
     public class Cell
     {
+        readonly int _index;
+        public int? value;
+        readonly ArrayList _notes;
+        public ArrayList _candidates;
+
+        public int index { get => _index;}
+
         public Cell(int index)
         {
             _index = index;
             _notes = new ArrayList();
+            _candidates = new ArrayList();
+            InitCandidates();
         }
-        readonly int _index;
-        public int? value;
-        readonly ArrayList _notes;
-
-        public int index { get => _index;}
 
         public void AddNote(int note)
         {
@@ -29,9 +33,23 @@ namespace CoreSudoku
             
         }
 
+        public void AddCandidate(int candidate)
+        {
+            _candidates.Add(candidate);
+        }
+
         public void ClearNotes()
         {
             _notes.Clear();
+        }
+
+        public void InitCandidates()
+        {
+            _candidates.Clear();
+            for (int i = 1; i < 4; i++)
+            {
+                _candidates.Add(i);
+            }
         }
 
         public List<int> Notes
@@ -42,5 +60,14 @@ namespace CoreSudoku
                 return outNotes;
             }
         }
+        public List<int> Candidates
+        {
+            get
+            {
+                List<int> outCandidates = new List<int>(_candidates.ToArray(typeof(int)) as int[]);
+                return outCandidates;
+            }
+        }
+
     }
 }

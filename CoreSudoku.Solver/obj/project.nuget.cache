@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7nIswrWE2jxNOdFUD2ahRsqTrlZdJBF8o0dV+dcKnnlDqR7W7BuwY42CzluRGTlCfK8eqaoGhnUmAdnO1DM4Xw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jim\\Desktop\\coreSudoku\\CoreSudoku.Solver\\CoreSudoku.Solver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
