@@ -1,5 +1,5 @@
+using CoreSudoku.Model;
 using Xunit;
-using CoreSudoku;
 
 namespace CoreSudoku.tests
 {

@@ -17,3 +17,4 @@ c:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Tests\bin\Debug\netcoreapp2.2\CoreSud
 c:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Tests\obj\Debug\netcoreapp2.2\CoreSudoku.tests.csproj.CopyComplete
 C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Tests\bin\Debug\netcoreapp2.2\CoreSudoku.Solver.dll
 C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Tests\bin\Debug\netcoreapp2.2\CoreSudoku.Solver.pdb
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Tests\obj\Debug\netcoreapp2.2\CoreSudoku.tests.genruntimeconfig.cache

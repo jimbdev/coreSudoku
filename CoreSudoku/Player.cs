@@ -1,21 +1,23 @@
+using CoreSudoku.Model;
 using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
+
 namespace CoreSudoku
 {
     public class Player
     {
-        Grid board;
-        List<Box> regions;
+        Grid grid;
+        List<Box> boxes;
 
         public Player()
         {
-            board = new Grid();
-            regions.Add(new Box());
+            grid = new Grid();
+            boxes.Add(new Box());
             var mapper = new RegionMapper();
-            mapper.MapRegions(board, regions);
+            mapper.MapRegions(grid, boxes);
 
 
         }

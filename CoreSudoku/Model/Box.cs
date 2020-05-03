@@ -1,6 +1,6 @@
 using System.Collections.Generic;
 
-namespace CoreSudoku
+namespace CoreSudoku.Model
 {
     public class Box
     {

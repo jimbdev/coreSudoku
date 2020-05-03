@@ -1,3 +1,4 @@
+using CoreSudoku.Model;
 using System.Collections.Generic;
 
 namespace CoreSudoku

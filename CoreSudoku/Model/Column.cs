@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CoreSudoku
+namespace CoreSudoku.Model
 {
     public class Column
     {

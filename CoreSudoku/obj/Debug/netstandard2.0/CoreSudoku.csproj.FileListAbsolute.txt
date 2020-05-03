@@ -1,7 +1,6 @@
 C:\Users\Jim\Desktop\coreSudoku\coresudoku\bin\Debug\netstandard2.0\CoreSudoku.deps.json
 C:\Users\Jim\Desktop\coreSudoku\coresudoku\bin\Debug\netstandard2.0\CoreSudoku.dll
 C:\Users\Jim\Desktop\coreSudoku\coresudoku\bin\Debug\netstandard2.0\CoreSudoku.pdb
-C:\Users\Jim\Desktop\coreSudoku\coresudoku\obj\Debug\netstandard2.0\CoreSudoku.csprojAssemblyReference.cache
 C:\Users\Jim\Desktop\coreSudoku\coresudoku\obj\Debug\netstandard2.0\CoreSudoku.csproj.CoreCompileInputs.cache
 C:\Users\Jim\Desktop\coreSudoku\coresudoku\obj\Debug\netstandard2.0\CoreSudoku.AssemblyInfoInputs.cache
 C:\Users\Jim\Desktop\coreSudoku\coresudoku\obj\Debug\netstandard2.0\CoreSudoku.AssemblyInfo.cs

@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CoreSudoku
+namespace CoreSudoku.Model
 {
     public class Grid
     {
