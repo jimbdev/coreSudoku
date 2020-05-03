@@ -1,0 +1,12 @@
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Controller\bin\Debug\netcoreapp3.1\CoreSudoku.Controller.deps.json
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Controller\bin\Debug\netcoreapp3.1\CoreSudoku.Controller.dll
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Controller\bin\Debug\netcoreapp3.1\CoreSudoku.Controller.pdb
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Controller\bin\Debug\netcoreapp3.1\CoreSudoku.Model.dll
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Controller\bin\Debug\netcoreapp3.1\CoreSudoku.Model.pdb
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Controller\obj\Debug\netcoreapp3.1\CoreSudoku.Controller.csprojAssemblyReference.cache
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Controller\obj\Debug\netcoreapp3.1\CoreSudoku.Controller.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Controller\obj\Debug\netcoreapp3.1\CoreSudoku.Controller.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Controller\obj\Debug\netcoreapp3.1\CoreSudoku.Controller.AssemblyInfo.cs
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Controller\obj\Debug\netcoreapp3.1\CoreSudoku.Controller.csproj.CopyComplete
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Controller\obj\Debug\netcoreapp3.1\CoreSudoku.Controller.dll
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Controller\obj\Debug\netcoreapp3.1\CoreSudoku.Controller.pdb

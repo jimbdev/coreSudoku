@@ -1,0 +1,9 @@
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Model\bin\Debug\netcoreapp3.1\CoreSudoku.Model.deps.json
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Model\bin\Debug\netcoreapp3.1\CoreSudoku.Model.dll
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Model\bin\Debug\netcoreapp3.1\CoreSudoku.Model.pdb
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Model\obj\Debug\netcoreapp3.1\CoreSudoku.Model.csproj.CoreCompileInputs.cache
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Model\obj\Debug\netcoreapp3.1\CoreSudoku.Model.AssemblyInfoInputs.cache
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Model\obj\Debug\netcoreapp3.1\CoreSudoku.Model.AssemblyInfo.cs
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Model\obj\Debug\netcoreapp3.1\CoreSudoku.Model.dll
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Model\obj\Debug\netcoreapp3.1\CoreSudoku.Model.pdb
+C:\Users\Jim\Desktop\coreSudoku\CoreSudoku.Model\obj\Debug\netcoreapp3.1\CoreSudoku.Model.csprojAssemblyReference.cache

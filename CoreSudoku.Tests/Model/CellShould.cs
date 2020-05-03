@@ -1,6 +1,7 @@
 using Xunit;
 using CoreSudoku.Model;
 using System.Collections.Generic;
+using Moq;
 
 namespace CoreSudoku.tests.Model
 {
@@ -16,6 +17,11 @@ namespace CoreSudoku.tests.Model
             Assert.Null(test.value);
             //Assert.Empty(test.Notes);
             test.possible.poss.Equals(GetFullPossible().poss);
+        }
+
+        public void RemovePoss_CallsPossRemove()
+        {
+            //set up dependency injection for this
         }
 
         //[Fact]
